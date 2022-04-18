@@ -1,0 +1,71 @@
+body{
+    font-family: 'Lora', serif;
+    min-height: 1250px;
+    }
+    main {
+        font-size: 14pt;
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-top: 75;
+        background-color: rgb(98, 192, 192);
+        box-shadow: 0px 3px 20px 2px rgba(0,0,0,0.4);
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .first {
+        display: inline-block;
+        border: 1px solid black ;
+        background-color: rgb(211, 230, 247);
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-left:20px;
+        margin-right: 20px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .second {
+        display: inline-block;
+        border: 1px solid black ;
+        background-color: rgb(211, 230, 247);
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-left:20px;
+        margin-right: 20px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .third {
+        display: inline-block;
+        border: 1px solid black ;
+        background-color: rgb(211, 230, 247);
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-left:20px;
+        margin-right: 20px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .picture1 {
+        height: 200;
+        border-radius: 50;
+        display: inline;
+        float: right;
+        overflow: auto;
+        padding: 5px;
+    }
+    .picture2 {
+        height: 200;
+        border-radius: 50;
+        display: inline;
+        float: left;
+        overflow: auto;
+        padding: 5px;
+    }
+    .picture3 {
+        height: 200;
+        border-radius: 50;
+        display: inline;
+        float: right;
+        overflow: auto;
+        padding: 5px;
+    }   
